@@ -1,0 +1,87 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "cobaLatihan",
+      "request": "launch",
+      "mainClass": "cobaLatihan",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "mahasiswa.main",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "java",
+      "name": "Jumlah",
+      "request": "launch",
+      "mainClass": "Jumlah",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "java",
+      "name": "TesFilm",
+      "request": "launch",
+      "mainClass": "TesFilm",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "java",
+      "name": "cobaPaket",
+      "request": "launch",
+      "mainClass": "cobaPaket",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "java",
+      "name": "LabelTest",
+      "request": "launch",
+      "mainClass": "LabelTest",
+      "projectName": "P5_afda8da1"
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge",
+      "request": "launch",
+      "runtimeArgs": [
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge in headless mode",
+      "request": "launch",
+      "runtimeArgs": [
+        "--headless",
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "vscode-edge-devtools.debug",
+      "name": "Open Edge DevTools",
+      "request": "attach",
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    }
+  ]
+}

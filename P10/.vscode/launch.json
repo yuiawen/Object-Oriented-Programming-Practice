@@ -1,0 +1,94 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Lat1Main",
+      "request": "launch",
+      "mainClass": "Lat1Main",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "MainHewan",
+      "request": "launch",
+      "mainClass": "MainHewan",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "Penjumlahan",
+      "request": "launch",
+      "mainClass": "Penjumlahan",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "Test2",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "BurungTest",
+      "request": "launch",
+      "mainClass": "BurungTest",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "java",
+      "name": "OverloadingKonstruktor",
+      "request": "launch",
+      "mainClass": "OverloadingKonstruktor",
+      "projectName": "P10_4b772633"
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge",
+      "request": "launch",
+      "runtimeArgs": [
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge in headless mode",
+      "request": "launch",
+      "runtimeArgs": [
+        "--headless",
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "vscode-edge-devtools.debug",
+      "name": "Open Edge DevTools",
+      "request": "attach",
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    }
+  ]
+}

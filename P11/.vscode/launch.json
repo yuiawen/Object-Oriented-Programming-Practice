@@ -1,0 +1,61 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MultiCatchException",
+      "request": "launch",
+      "mainClass": "MultiCatchException",
+      "projectName": "P11_4b772634"
+    },
+    {
+      "type": "java",
+      "name": "MainTugas",
+      "request": "launch",
+      "mainClass": "MainTugas",
+      "projectName": "P11_4b772634"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "P11_4b772634"
+    },
+    {
+      "type": "java",
+      "name": "BagiNol",
+      "request": "launch",
+      "mainClass": "BagiNol",
+      "projectName": "P11_4b772634"
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge",
+      "request": "launch",
+      "runtimeArgs": ["--remote-debugging-port=9222"],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge in headless mode",
+      "request": "launch",
+      "runtimeArgs": ["--headless", "--remote-debugging-port=9222"],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "vscode-edge-devtools.debug",
+      "name": "Open Edge DevTools",
+      "request": "attach",
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    }
+  ]
+}

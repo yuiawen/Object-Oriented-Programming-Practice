@@ -1,0 +1,115 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Calculation2Lat1",
+      "request": "launch",
+      "mainClass": "Calculation2Lat1",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Tugas1",
+      "request": "launch",
+      "mainClass": "Tugas1",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Pangkat",
+      "request": "launch",
+      "mainClass": "Pangkat",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Lat3_3",
+      "request": "launch",
+      "mainClass": "Lat3_3",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "SegitigaLat3",
+      "request": "launch",
+      "mainClass": "SegitigaLat3",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "MahasiswaLat2",
+      "request": "launch",
+      "mainClass": "MahasiswaLat2",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Calculation2",
+      "request": "launch",
+      "mainClass": "Calculation2",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Hitung",
+      "request": "launch",
+      "mainClass": "Hitung",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Mahasiswa",
+      "request": "launch",
+      "mainClass": "Mahasiswa",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "HitungSegitiga",
+      "request": "launch",
+      "mainClass": "HitungSegitiga",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "java",
+      "name": "Segitiga",
+      "request": "launch",
+      "mainClass": "Segitiga",
+      "projectName": "P3_afda8d9f"
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge",
+      "request": "launch",
+      "runtimeArgs": [
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge in headless mode",
+      "request": "launch",
+      "runtimeArgs": [
+        "--headless",
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "vscode-edge-devtools.debug",
+      "name": "Open Edge DevTools",
+      "request": "attach",
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TestKomposisi",
+      "request": "launch",
+      "mainClass": "TestKomposisi",
+      "projectName": "P6_afda8da2"
+    },
+    {
+      "type": "java",
+      "name": "TestEnkapsulasi",
+      "request": "launch",
+      "mainClass": "TestEnkapsulasi",
+      "projectName": "P6_afda8da2"
+    },
+    {
+      "type": "java",
+      "name": "MainTugas",
+      "request": "launch",
+      "mainClass": "MainTugas",
+      "projectName": "P6_afda8da2"
+    },
+    {
+      "type": "java",
+      "name": "ObyekBuku",
+      "request": "launch",
+      "mainClass": "ObyekBuku",
+      "projectName": "P6_afda8da2"
+    },
+    {
+      "type": "java",
+      "name": "MainLatihan",
+      "request": "launch",
+      "mainClass": "MainLatihan",
+      "projectName": "P6_afda8da2"
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge",
+      "request": "launch",
+      "runtimeArgs": [
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "Launch Microsoft Edge in headless mode",
+      "request": "launch",
+      "runtimeArgs": [
+        "--headless",
+        "--remote-debugging-port=9222"
+      ],
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    },
+    {
+      "type": "vscode-edge-devtools.debug",
+      "name": "Open Edge DevTools",
+      "request": "attach",
+      "url": "c:\\Users\\iseul\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
+      "presentation": {
+        "hidden": true
+      }
+    }
+  ]
+}
